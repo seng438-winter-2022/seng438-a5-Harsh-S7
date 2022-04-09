@@ -3,7 +3,7 @@
 **Lab. Report \#5 – Software Reliability Assessment**
 
 | Group \#:      |    28    |
-| -------------- | ---      |
+| -------------- | -------- |
 | Student Names: |          |
 | Harshit Sharma | 30092470 |
 | Heidi Toews    | 30094995 |
@@ -14,6 +14,9 @@
 The purpose of this lab is to learn about reliability assessment testing. We will first use the provided integration test data to perform the assessment using reliability growth testing. Then we will assess the system under test (SUT) using a reliability demonstration chart. Finally, we will discuss the differences between the two techniques. 
 
 # Assessment Using Reliability Growth Testing 
+Comparison of Top Two Models
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/56179869/162557334-7bb7f4e1-c603-41fe-94bd-07bdba03d982.png">
+
 
 
 # Assessment Using Reliability Demonstration Chart 
