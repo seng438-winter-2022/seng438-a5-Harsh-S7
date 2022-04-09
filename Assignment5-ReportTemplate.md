@@ -18,6 +18,7 @@ The purpose of this lab is to learn about reliability assessment testing. We wil
 
 # Assessment Using Reliability Demonstration Chart 
 MTTF min
+
 ![image](https://user-images.githubusercontent.com/56179869/162557147-1b04d910-dba0-405a-b3ed-b4542e7d8562.png)
 
 Double MTTF min
