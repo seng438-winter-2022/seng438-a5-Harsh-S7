@@ -15,8 +15,20 @@ The purpose of this lab is to learn about reliability assessment testing. We wil
 
 # Assessment Using Reliability Growth Testing 
 Comparison of Top Two Models
+
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/56179869/162557334-7bb7f4e1-c603-41fe-94bd-07bdba03d982.png">
 
+<img width="642" alt="image" src="https://user-images.githubusercontent.com/56179869/162557351-ddd2c9b4-e3a1-40e9-af59-881155a097ca.png">
+
+As can be seen from the graph and chart, the 2 best models are DW3 and IFRGSB. This can mainly be shown from the likelihood column in the tabel where they had the highest scores. 
+
+Range Analysis
+
+Plots for Failure Rate and Reliability 
+
+Decision Making Given a Target Failure
+
+Advantages and Disadvantages of Reliability Growth Analysis
 
 
 # Assessment Using Reliability Demonstration Chart 
