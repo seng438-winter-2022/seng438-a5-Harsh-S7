@@ -18,21 +18,27 @@ The purpose of this lab is to learn about reliability assessment testing. We wil
 
 # Assessment Using Reliability Demonstration Chart 
 MTTF min
+
 ![image](https://user-images.githubusercontent.com/56179869/162557147-1b04d910-dba0-405a-b3ed-b4542e7d8562.png)
 
 Double MTTF min
+
 ![image](https://user-images.githubusercontent.com/56179869/162557149-0930940f-f173-4ee7-8677-3ef0e6c3c24f.png)
 
 Half MTTF min
+
 ![image](https://user-images.githubusercontent.com/56179869/162557153-5ae7e74b-8201-4a64-b973-b597d14e9c1a.png)
 
 Observing Discrimination Ratio
+
 ![image](https://user-images.githubusercontent.com/56179869/162557158-fbed3a85-99c4-453c-89b7-5ebdc8a992f6.png)
 
 Observing Customer Risk
+
 ![image](https://user-images.githubusercontent.com/56179869/162557170-ff4dea8e-0939-49bd-add3-782d0cda7b2c.png)
 
 Observing Developer Risk
+
 ![image](https://user-images.githubusercontent.com/56179869/162557121-808a4daf-9d44-4ff4-9f40-8f0d75c10ed2.png)
 
 To determine the MTTF min, we tested the system under various input parameters until the failure data barely crossed the acceptable line. 
