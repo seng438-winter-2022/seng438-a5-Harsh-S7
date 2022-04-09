@@ -23,12 +23,32 @@ Comparison of Top Two Models
 As can be seen from the graph and chart, the 2 best models are DW3 and IFRGSB. This can mainly be shown from the likelihood column in the tabel where they had the highest scores. 
 
 Range Analysis
+As can be seen from the graphs below, these models are very close to the actual graphs and fit the distribution of the failure data accurately. Aside from a superficial look at the data, There doesn’t seem to be an ideal method to analyze this data with C-SFRAT. As such the whole range must be considered when looking for reliable data. 
 
 Plots for Failure Rate and Reliability 
 
+<img width="633" alt="image" src="https://user-images.githubusercontent.com/56179869/162558806-05d69fb1-8a06-4893-9a09-8ffea1143997.png">
+
+<img width="647" alt="image" src="https://user-images.githubusercontent.com/56179869/162558811-f6737526-b855-44bd-a4a1-bcaa1e8dfa0f.png">
+
 Decision Making Given a Target Failure
 
+<img width="641" alt="image" src="https://user-images.githubusercontent.com/56179869/162558823-88704078-334d-4c6f-ae5e-a6dee5e2d29a.png">
+
+After looking at the default failure intensity of 1.0, it was determined that it was not ideal 
+and was too large for the given plot. As such, it was decided that cutting the intensity in half may end up yielding better results. After setting the intensity to 0.5, it was determined that this intensity was more ideal however it still had its own issues. The graph indicates that the target rate will be hit at an interval beyond the testing range. But the trend is colose enough to consider it valid and is far closer than anything higer than 0.5. 
+
 Advantages and Disadvantages of Reliability Growth Analysis
+Disadvantages:
+-Different tools can bring different results. As such we decided to only stick to 1 for the report. 
+-different methods to enter data with some methods taking longer than others. (i.e. csv vs excel vs txt files)
+-models can very in effectiveness, (different models use different functions). So comparing models is essential.
+-graphs can be difficult to analize when the tools have limited capabilities.
+
+Advantages:
+-due to the nature of reliability growth analysis, it is easy to see the effect of any thing that has potential to impact the results or development of a project. This is because of how each changes impact can be determined based on the time that change occurred.
+-graphs that are created are an ideal way to determine any time based information and allow for accurate predictions.
+ 
 
 
 # Assessment Using Reliability Demonstration Chart 
